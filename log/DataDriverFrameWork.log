@@ -1,0 +1,40 @@
+''2018 - 02 - 05 18:55:08' TestMail163AddContacts.py[line: 37] INFO 163邮箱添加联系人数据驱动测试开始...'
+''2018 - 02 - 05 18:55:17' TestMail163AddContacts.py[line: 58] INFO 启动浏览器，访问163邮箱主页'
+''2018 - 02 - 05 18:55:23' TestMail163AddContacts.py[line: 68] DEBUG 用户zb194236登录后，断言页面关键字'收信'失败异常信息：None'
+''2018 - 02 - 05 18:55:40' TestMail163AddContacts.py[line: 99] INFO 添加联系人zhangsan@qq.com成功'
+''2018 - 02 - 05 18:55:40' TestMail163AddContacts.py[line: 112] INFO 断言关键字'zhangsan@qq.com'成功'
+''2018 - 02 - 05 18:55:40' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加1个联系人，1个成功
+'
+''2018 - 02 - 05 18:55:54' TestMail163AddContacts.py[line: 99] INFO 添加联系人lisi@qq.com成功'
+''2018 - 02 - 05 18:55:54' TestMail163AddContacts.py[line: 112] INFO 断言关键字'lisi@qq.com'成功'
+''2018 - 02 - 05 18:55:54' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加2个联系人，2个成功
+'
+''2018 - 02 - 05 18:55:54' TestMail163AddContacts.py[line: 114] INFO 联系人lisi@qq.com被忽略执行'
+''2018 - 02 - 05 18:55:54' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加2个联系人，2个成功
+'
+''2018 - 02 - 05 18:56:08' TestMail163AddContacts.py[line: 99] INFO 添加联系人amy@qq.com成功'
+''2018 - 02 - 05 18:56:08' TestMail163AddContacts.py[line: 112] INFO 断言关键字'amy'成功'
+''2018 - 02 - 05 18:56:08' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加3个联系人，3个成功
+'
+''2018 - 02 - 05 18:56:08' TestMail163AddContacts.py[line: 129] INFO 用户zb194236被忽略执行
+'
+''2018 - 02 - 05 18:57:58' TestMail163AddContacts.py[line: 37] INFO 163邮箱添加联系人数据驱动测试开始...'
+''2018 - 02 - 05 18:58:07' TestMail163AddContacts.py[line: 58] INFO 启动浏览器，访问163邮箱主页'
+''2018 - 02 - 05 18:58:13' TestMail163AddContacts.py[line: 66] INFO 用户zb194236登录后，断言页面关键字'收 信'成功'
+''2018 - 02 - 05 18:58:31' TestMail163AddContacts.py[line: 99] INFO 添加联系人zhangsan@qq.com成功'
+''2018 - 02 - 05 18:58:31' TestMail163AddContacts.py[line: 112] INFO 断言关键字'zhangsan@qq.com'成功'
+''2018 - 02 - 05 18:58:31' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加1个联系人，1个成功
+'
+''2018 - 02 - 05 18:58:45' TestMail163AddContacts.py[line: 99] INFO 添加联系人lisi@qq.com成功'
+''2018 - 02 - 05 18:58:45' TestMail163AddContacts.py[line: 112] INFO 断言关键字'lisi@qq.com'成功'
+''2018 - 02 - 05 18:58:45' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加2个联系人，2个成功
+'
+''2018 - 02 - 05 18:58:45' TestMail163AddContacts.py[line: 114] INFO 联系人lisi@qq.com被忽略执行'
+''2018 - 02 - 05 18:58:45' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加2个联系人，2个成功
+'
+''2018 - 02 - 05 18:58:59' TestMail163AddContacts.py[line: 99] INFO 添加联系人amy@qq.com成功'
+''2018 - 02 - 05 18:58:59' TestMail163AddContacts.py[line: 112] INFO 断言关键字'amy'成功'
+''2018 - 02 - 05 18:58:59' TestMail163AddContacts.py[line: 125] INFO 为用户zb194236添加3个联系人，3个成功
+'
+''2018 - 02 - 05 18:58:59' TestMail163AddContacts.py[line: 129] INFO 用户zb194236被忽略执行
+'
